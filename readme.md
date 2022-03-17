@@ -1,3 +1,5 @@
+# This Repo is Absolete, Refer my other repo for re-implementation using scrapy - [scrapy-mini-crawlers](https://github.com/gauthamchettiar/scrapy-mini-crawlers)
+
 # Jio Mart Price Fetcher
 A Simple WebScrapper written in Python3 that fetches price of any listed item from JioMart.com and dumps them as JSON.
 
